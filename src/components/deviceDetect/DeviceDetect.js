@@ -1,10 +1,5 @@
 import React, { Component } from "react";
-import {
-  BrowserView,
-  MobileView,
-  isBrowser,
-  isMobile,
-} from "react-device-detect";
+import { BrowserView, MobileView } from "react-device-detect";
 class DeviceDetect extends Component {
   render() {
     return (
