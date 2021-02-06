@@ -1,0 +1,23 @@
+/* Material UI Range Slider */
+.MuiSlider-rail {
+    height: 8px !important;
+  }
+  .MuiSlider-track {
+    height: 8px !important;
+  }
+  .MuiSlider-thumb {
+    width: 15px !important;
+    height: 15px !important;
+    outline: none !important;
+    color: #000000 !important;
+  }
+  .MuiSlider-valueLabel {
+    color: transparent !important;
+  }
+  .PrivateValueLabel-label-5 {
+    color: #000000 !important;
+  }
+  .PrivateValueLabel-offset-3 {
+    top: -25px !important;
+  }
+  
